@@ -1,16 +1,16 @@
 {
-"name": "joker888asia",
-"theme": "joker888asia",
-"version": "6.10.4",
-"description": "joker888asia สมัครสมาชิกเว็บพนันเว็บตรง สมาชิกเยอะ แจกเครดิตฟรี",
-"keywords": [
-"joker888asia",
-"joker888asia เครดิตฟรี",
-"joker888asia ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/joker888asia",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "joker888asia",
+  "theme": "joker888asia",
+  "version": "6.11.0",
+  "description": "joker888asia สมัครสมาชิกเว็บพนันเว็บตรง สมาชิกเยอะ แจกเครดิตฟรี",
+  "keywords": [
+    "joker888asia",
+    "joker888asia เครดิตฟรี",
+    "joker888asia ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/joker888asia",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
